@@ -13,4 +13,7 @@ Autores:
 - Carlos Massao Oishi Giuzio NUSP 10773401
 - Igor Varela Zoeller NUSP 10773440
 - Rafael Araújo Coelho NUSP 10773252
+
+Figura - Pipeline do Projeto
+
 ![Model_Workflow](https://user-images.githubusercontent.com/114006669/208571561-fd931110-3f93-47cf-b3a4-882c19d3a47d.png)
